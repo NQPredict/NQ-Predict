@@ -42,3 +42,9 @@ You need a Windows x64 PC and internet access for sign-in and activation. Market
 Open **Settings** in the app for setup instructions. For a bug report, include the app version, the affected screen, and steps to reproduce. Include the dated contract and whether you were using market data or playback if the issue involves quotes or orders. [Open a GitHub issue](https://github.com/NQPredict/NQ-Predict/issues).
 
 Paper trades, simulated payouts, and simulator certificates use virtual funds and achievements. Historical model results and forecasts are estimates of performance and do not guarantee future results. Futures trading involves risk.
+
+
+## NQPRE DISCLOURSE
+I did start that memecoin to raise funds heres the official addresses
+Mint: HUQyJLRHhZfS865bFhyErn4L2QkusYrbPLiCMjMvnzCx
+NQPREDICT DEV WALLET: 2dVmNbqFbEHsKeoxXVEKif8K7DXqqbRRdJtG7dQW9QKv
